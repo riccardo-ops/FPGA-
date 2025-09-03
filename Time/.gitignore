@@ -1,0 +1,10 @@
+# Include only source file, not output files 
+
+.qsys_edit/
+db/
+greybox_tmp/
+incremental_db/
+output_files/
+simulation/
+Time.qws
+Time.sdc.bak
