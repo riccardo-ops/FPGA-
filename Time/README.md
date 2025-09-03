@@ -14,3 +14,5 @@ When **9.9 seconds** is reached, it resets back to **0.0**.
 > It's perfect for hobby-related projects, but not for more intensive operations.
 
 I suggest to follow this series of projects and **contact me** if anything is wrong or not clear.
+
+**Demo.mp4** file is a video of the final result that you can download and see. This is what it looks like if everything is working. 
